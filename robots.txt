@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watfordhandyman.uk/sitemap.xml
